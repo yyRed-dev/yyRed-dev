@@ -2,23 +2,16 @@
 
 💻 Systems Analysis and Development student (2nd semester)<br>
 🚀 Focused on growing as a developer<br>
-📚 Currently learning Java and improving my JavaScript skills
+📚 Currently learning Java
 
-🌎 Native Portuguese (BR) | Fluent in English | Intermediate Spanish
+🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish
 
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=shadow_red"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=shadow_red"/>
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=shadow_red"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=shadow_red"/>
 </div>
 
 ---
