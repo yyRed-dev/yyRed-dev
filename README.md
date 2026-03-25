@@ -44,7 +44,5 @@
 ---
 
 <div align="center">
-
-# <span style="color:#FF0000;">Future Software Developer</span>
-
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=900&lines=Future+Software+Developer&font=Fira+Code">
 </div>
