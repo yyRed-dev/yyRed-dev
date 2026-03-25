@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm João Pedro — a future software developer
 
-💻 Systems Analysis and Development student (2nd semester)
-🚀 Focused on growing as a developer
+💻 Systems Analysis and Development student (2nd semester)<br>
+🚀 Focused on growing as a developer<br>
 📚 Currently learning Java and improving my JavaScript skills
 
 🌎 Native Portuguese (BR) | Fluent in English | Intermediate Spanish
@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=shadow_red"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=shadow_red"/>
 </div>
 
 ---
@@ -44,5 +44,6 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=80&section=footer&text=Future%20Software%20Developer&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=55&desc=&descAlign=50&descAlignY=70"/>
-</div>
+  <img src="https://i.imgur.com/HwkeI5A.png" width="600">
+
+---
