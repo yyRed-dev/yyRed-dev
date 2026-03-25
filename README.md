@@ -8,10 +8,17 @@
 
 ---
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=shadow_red"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=shadow_red"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=shadow_red"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=shadow_red"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -46,13 +53,6 @@
 
 <div align="center">
   <img src="https://i.imgur.com/HwkeI5A.png" width="600">
-</div>
-
-<div align="center">
-
-Future Software Developer
-— 赤 —
-
 </div>
 
 ---
