@@ -2,9 +2,9 @@
 
 💻 Systems Analysis and Development student (2nd semester)<br>
 🚀 Focused on growing as a developer<br>
-📚 Currently learning Java and improving my JavaScript skills
+📚 Currently learning Java
 
-🌎 Native Portuguese (BR) | Fluent in English | Intermediate Spanish
+🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish
 
 ---
 
@@ -46,6 +46,13 @@
 
 <div align="center">
   <img src="https://i.imgur.com/HwkeI5A.png" width="600">
+</div>
+
+<div align="center">
+
+Future Software Developer
+— 赤 —
+
 </div>
 
 ---
