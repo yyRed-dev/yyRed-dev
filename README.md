@@ -17,28 +17,35 @@
 
 ### 💻 Development
 
-<div style="display: inline_block"><br>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<div align="center">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 </div>
 
 ---
 
 ### 🎨 Design & Tools
 
-<div style="display: inline_block"><br>
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg">
-<img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png">
+<div align="center">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg">
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/512px-DaVinci_Resolve_Studio.png">
 </div>
 
 ---
 
 ### 📫 Contact
 
-<a href="mailto:jppalhano19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://discord.com/users/335102792878260226" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<div align="center">
+<a href="mailto:jppalhano19@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://discord.com/users/335102792878260226">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+</div>
 
 ---
 
