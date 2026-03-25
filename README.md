@@ -15,23 +15,17 @@
 
 ---
 
-### 💻 Development
+### 🛠️ Dev & Design
 
 <div align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-</div>
 
----
-
-### 🎨 Design & Tools
-
-<div align="center">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-original.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DaVinci_Resolve_Studio.png/512px-DaVinci_Resolve_Studio.png">
+
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png">
 </div>
 
 ---
@@ -49,6 +43,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Future%20Software%20Developer-red?style=for-the-badge">
-</p>
+<div align="center">
+
+# <span style="color:#FF0000;">Future Software Developer</span>
+
+</div>
