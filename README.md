@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yyRed-dev&show_icons=true&theme=radical"/>
 </div>
 
 ---
@@ -36,6 +36,5 @@
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Future+Software+Developer;JavaScript+%7C+Java;Always+learning+something+new"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Future%20Software%20Developer-F
