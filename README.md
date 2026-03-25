@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=900&lines=Future+Software+Developer&font=Fira+Code">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=80&section=footer&text=Future%20Software%20Developer&fontColor=ffffff&fontSize=30&fontAlign=50&fontAlignY=55&desc=&descAlign=50&descAlignY=70"/>
 </div>
