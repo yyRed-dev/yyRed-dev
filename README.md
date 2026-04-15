@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yyRed-dev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=tokyonight&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yyRed-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
 </div>
 
 ---
