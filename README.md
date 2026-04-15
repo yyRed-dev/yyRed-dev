@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&theme=tokyonight&langs_count=6"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yyRed-dev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yyRed-dev&show_icons=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000&count_private=true&include_all_commits=true"/>
 </div>
 
 ---
