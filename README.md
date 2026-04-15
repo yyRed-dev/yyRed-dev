@@ -4,7 +4,7 @@
 🚀 Focused on growing as a developer  
 📚 Currently learning Java  
 
-🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish  
+🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish | Learning Chinese
 
 ---
 
