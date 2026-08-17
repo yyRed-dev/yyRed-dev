@@ -6,7 +6,7 @@
 
 🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish | Learning Chinese
 
---
+---
 
 ### 🛠️ Dev & Design
 
