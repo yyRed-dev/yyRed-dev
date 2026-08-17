@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm João Pedro — a future software developer
 
-💻 Systems Analysis and Development student (2nd semester)  
+💻 Systems Analysis and Development student (3nd semester)  
 🚀 Focused on growing as a developer  
 📚 Currently learning Java  
 
