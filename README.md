@@ -38,6 +38,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/davinci-resolve/default.svg">
 </div>
 
 ---
