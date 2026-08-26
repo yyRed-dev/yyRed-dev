@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm João Pedro — a future software developer
 
-💻 Systems Analysis and Development student (3rd semester)  
+💻 Systems Analysis and Development student at UNIFOR (3rd semester)  
 🚀 Focused on growing as a developer  
 📚 Currently learning Java & Web
 
