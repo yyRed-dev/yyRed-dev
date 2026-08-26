@@ -23,7 +23,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 
-  <br><br>
+  <br>
 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
