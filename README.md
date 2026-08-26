@@ -25,17 +25,11 @@
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-
-<br><br>
-
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-
-<br><br>
-
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg">
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
