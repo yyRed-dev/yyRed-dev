@@ -2,7 +2,7 @@
 
 💻 Systems Analysis and Development student (3rd semester)  
 🚀 Focused on growing as a developer  
-📚 Focused in learning Java & estuding Web
+📚 Currently learning Java & Web
 
 🌎 Native Portuguese [BR] | Fluent in English | Intermediate Spanish | Learning Chinese
 
