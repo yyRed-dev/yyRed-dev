@@ -11,9 +11,9 @@
 ### 👨‍💻 Technologies
 
 <p>
-  <img width="400" height="180" src="https://github-stats-extended.vercel.app/api?username=yyRed-dev&show_icons=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=8b0000"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=yyRed-dev&show_icons=true&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=8b0000"/>
 
-  <img width="359" height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=8b0000"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yyRed-dev&layout=compact&bg_color=0d0d0d&title_color=ff3333&text_color=ffffff&icon_color=ff3333&border_color=8b0000"/>
 </p>
 
 <div align="center">
